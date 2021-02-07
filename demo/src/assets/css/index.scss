@@ -1,0 +1,16 @@
+// @import './common.scss';
+@import './base.scss';
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    min-width: 320px;
+    max-width: 750px;
+    margin: 0 auto;
+    line-height: 1.5;
+    font-family: Arial,Helvetica,STHeiTi,sans-serif;
+    background-color: #eee;
+    
+    
+}
